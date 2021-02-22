@@ -1,0 +1,28 @@
+head {
+    color:aliceblue
+}
+body {
+    font-family: monospace;
+    color: white;
+    position : top;
+}
+
+ul {
+    font-family: helvetica;
+    color: Black;
+}
+li {
+    list-style: circle;
+  }
+  
+  .list {
+    list-style: square;
+  }
+  
+  #msg {
+    font-family: monospace;
+  }
+  .light-theme {
+    color: #000000;
+  }
+
